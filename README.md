@@ -3,6 +3,9 @@
 ## STM32H743ZI2
 
 * [UM2407 - STM32H7 Nucleo-144 boards](https://www.st.com/resource/en/user_manual/dm00499160-stm32h7-nucleo144-boards-mb1364-stmicroelectronics.pdf)
+* [DS12110](https://www.st.com/resource/en/datasheet/stm32h743vi.pdf)
+* [RM0433](https://www.st.com/resource/en/reference_manual/dm00314099-stm32h742-stm32h743753-and-stm32h750-value-line-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
+* [PM0253](https://www.st.com/resource/en/programming_manual/dm00237416-stm32f7-series-and-stm32h7-series-cortexm7-processor-programming-manual-stmicroelectronics.pdf)
 
 ```
 $ sudo screen /dev/ttyACM0 115200
